@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#IntelliJ target
+.target/
+
 # BlueJ files
 *.ctxt
 
